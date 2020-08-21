@@ -14,6 +14,7 @@
 * React, Redux
 * C/C++
 * 안드로이드
+* Java
 
 ## 프로젝트
 ### [react-blog](https://github.com/OSUpdate/react-blog)
