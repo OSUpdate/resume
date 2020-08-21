@@ -49,7 +49,7 @@
 
 ### [PHP-Community](https://github.com/OSUpdate/php)
 * 개인 프로젝트
-* php, MySQL을 이용한 웹 커뮤니티
+* php, MSSQL을 이용한 웹 커뮤니티
 
 
 ## 이수교육
