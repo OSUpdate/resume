@@ -4,16 +4,16 @@
 * 이메일: force185@naver.com
 
 ## 학력
-
 * 한국산업기술대학교 컴퓨터공학과 졸업예정(2021.2)
 
-##사용기술
-
+## 사용기술
 * Python
 * JavaScript
 * NodeJS
 * HTML5, CSS
 * React, Redux
+* C/C++
+* 안드로이드
 
 ## 프로젝트
 ### AiWebDesigner
